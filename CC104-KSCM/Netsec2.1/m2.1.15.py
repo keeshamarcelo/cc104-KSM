@@ -1,0 +1,1 @@
+print("fish", "chips", sep="&")
